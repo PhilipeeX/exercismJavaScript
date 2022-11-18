@@ -12,7 +12,6 @@ Get the last letter of a sentence
 Be polite
 */
 
-
 /**
  * Respond with the correct character, given the line of the
  * poem, if this were said at the front door.
